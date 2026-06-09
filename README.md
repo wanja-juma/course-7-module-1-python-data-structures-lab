@@ -17,7 +17,7 @@ The system allows users to store, filter, and analyze student data in a structur
   - Major
 
 Example:
-```python
+
 (101, "Alice Johnson", "Computer Science")
 
 ### 2. Display Student data
@@ -104,4 +104,4 @@ Sets
 List Comprehensions
 Set Comprehensions
 Generator Expressions
-Modular Programming
+Modular
