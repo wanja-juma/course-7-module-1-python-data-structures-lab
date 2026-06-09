@@ -43,10 +43,58 @@ Ensures no duplicate values.
 Uses generator expressions to process large datasets efficiently.
 Returns one student at a time instead of storing everything in memory.
 
-## How to Run the Project
+## Setup Instructions
 
-Open terminal in the project folder
+1. Prerequisites
+
+Ensure you have the following installed:
+
+Python 3.8 or higher
+
+Check Python version:
+
+-python --version
+
+2. Download the Project
+
+Clone or download the project folder:
+
+-git clone git@github.com:wanja-juma/course-7-module-1-python-data-structures-lab.git
+
+3. Navigate to Project Directory
+
+-cd StudentDataManagement
+
+4. Run the Application
+
 Run the main file:
+
+-python main.py
+
+## Usage Instructions
+
+### When the program runs:
+
+1. Display All Students
+
+The system prints all student records in a formatted structure.
+
+2. Filter Students
+
+You can filter students by major using predefined functions.
+
+Example:
+
+Computer Science students only
+Mathematics students only
+
+3. View Unique Majors
+
+The system displays all unique majors using set operations.
+
+4. Generator-Based Processing
+
+The system can iterate through student records efficiently using generators, useful for large datasets.
 
 ### Concepts Used
 
